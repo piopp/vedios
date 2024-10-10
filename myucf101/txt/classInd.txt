@@ -1,0 +1,6 @@
+1 boxing
+2 handclapping
+3 handwaving
+4 jogging
+5 running
+6 walking
